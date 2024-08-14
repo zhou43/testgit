@@ -1,3 +1,5 @@
 print('hello world')
 print('!')
 a = input('how are you?')
+if 'you' in a:
+    print("I'm very good, thank you")
