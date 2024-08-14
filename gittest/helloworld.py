@@ -1,3 +1,5 @@
+print('welcome')
+print('my name is mario')
 print('hello world')
 print('!')
 a = input('how are you?')
